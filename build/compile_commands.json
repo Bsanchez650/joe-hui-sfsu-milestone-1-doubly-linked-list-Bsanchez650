@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/pollo/Desktop/milestone 1/build",
+  "command": "/usr/bin/clang++  -I\"/Users/pollo/Desktop/milestone 1/build/_deps/json-src/include\" -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/milestone1.dir/dll_node.cpp.o -c \"/Users/pollo/Desktop/milestone 1/dll_node.cpp\"",
+  "file": "/Users/pollo/Desktop/milestone 1/dll_node.cpp",
+  "output": "CMakeFiles/milestone1.dir/dll_node.cpp.o"
+},
+{
+  "directory": "/Users/pollo/Desktop/milestone 1/build",
+  "command": "/usr/bin/clang++  -I\"/Users/pollo/Desktop/milestone 1/build/_deps/json-src/include\" -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/milestone1.dir/doubly_linked_list.cpp.o -c \"/Users/pollo/Desktop/milestone 1/doubly_linked_list.cpp\"",
+  "file": "/Users/pollo/Desktop/milestone 1/doubly_linked_list.cpp",
+  "output": "CMakeFiles/milestone1.dir/doubly_linked_list.cpp.o"
+},
+{
+  "directory": "/Users/pollo/Desktop/milestone 1/build",
+  "command": "/usr/bin/clang++  -I\"/Users/pollo/Desktop/milestone 1/build/_deps/json-src/include\" -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/milestone1.dir/generate_output.cpp.o -c \"/Users/pollo/Desktop/milestone 1/generate_output.cpp\"",
+  "file": "/Users/pollo/Desktop/milestone 1/generate_output.cpp",
+  "output": "CMakeFiles/milestone1.dir/generate_output.cpp.o"
+},
+{
+  "directory": "/Users/pollo/Desktop/milestone 1/build",
+  "command": "/usr/bin/clang++  -I\"/Users/pollo/Desktop/milestone 1/build/_deps/json-src/include\" -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/milestone1.dir/milestone1.cpp.o -c \"/Users/pollo/Desktop/milestone 1/milestone1.cpp\"",
+  "file": "/Users/pollo/Desktop/milestone 1/milestone1.cpp",
+  "output": "CMakeFiles/milestone1.dir/milestone1.cpp.o"
+}
+]

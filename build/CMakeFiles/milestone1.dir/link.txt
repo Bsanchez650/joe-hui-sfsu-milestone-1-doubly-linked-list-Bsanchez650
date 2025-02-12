@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/milestone1.dir/dll_node.cpp.o CMakeFiles/milestone1.dir/doubly_linked_list.cpp.o CMakeFiles/milestone1.dir/generate_output.cpp.o CMakeFiles/milestone1.dir/milestone1.cpp.o -o milestone1
